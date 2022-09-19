@@ -1,2 +1,6 @@
 # cascadia-behavioral-healthcare
 Code and datasets for a study in collaboration with Cascadia-Behavioral-Healthcare
+
+## Mechanistic Modeling of Chronic Catatonia]{Mechanistic Modeling as an Explanatory Tool for Clinical Treatment of Chronic Catatonia
+
+Mathematical modeling of neural systems is an effective means to integrate complex information about the brain into a numerical tool that can help explain observations. However, the use of neural models to inform clinical decisions has been limited. In this study, we use a simple model of brain circuitry, the Wilson-Cowan model, to predict changes in a clinical measure for catatonia, the Bush-Francis Catatonia Rating Scale, for use in clinical treatment of schizophrenia. This computational tool can then be used to better understand mechanisms of action for pharmaceutical treatments, and to fine-tune dosage in individual cases. We present the conditions of clinical care for a residential patient cohort, and describe methods for synthesizing data to demonstrated the functioning of the model. We then show that the model can be used to explain effect sizes of treatments and estimate outcomes for combinations of medications.  We conclude with a demonstration of how this model could be personalized for individual patients to inform ongoing treatment protocols. 
