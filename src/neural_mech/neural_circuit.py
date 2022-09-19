@@ -220,4 +220,4 @@ class Neural_Circuit:
         i_nullcline['dIdt'] = drIdt_list
         i_nullcline['integ_dEdt'] = np.cumsum(-i_nullcline['dEdt'])
         if print_fp: print(self.find_fp(pars, 0, 0), self.find_fp(pars, 0.4, 0.5), self.find_fp(pars, 1, 0.9))
-        plt.plot(i_nullcline['integ_dEdt'])
+        plt.plot(Exc_null_rE, i_nullcline['integ_dEdt'])
